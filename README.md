@@ -3,7 +3,7 @@ L-NCodeTN
 
 L&amp;N STEM Code Tn Team
 
-This repository will be written in Java Script.
+This repository will be written in Java Script and HTML served on a webserver.
 
 We are working on creating a Solar Energy Savings Calculator for Knox County Schools.
 
