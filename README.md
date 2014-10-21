@@ -3,9 +3,9 @@ L-NCodeTN
 
 L&amp;N STEM Code Tn Team
 
-This repository will be written in Java.
+This repository will be written in Java Script.
 
-We have not decided what our project is yet.
+We are working on creating a Solar Energy Savings Calculator for Knox County Schools.
 
 We need to get everyone added as Collaborators so we can work together.
 
